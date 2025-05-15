@@ -1,4 +1,4 @@
 # demo
 first 
 <br>
-author - anurag singh
+author - Anurag singh (pratapgarh)
